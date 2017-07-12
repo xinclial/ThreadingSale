@@ -15,7 +15,7 @@ namespace Threading.Controllers
         private static Timer _timer;//定时器
         // GET: Sale
         public ActionResult Index()
-        {
+        {1
             return View();
         }
 
